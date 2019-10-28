@@ -1,0 +1,12 @@
+---
+title:
+- type: main
+  text: Artifact Conference 2019 Sketch Notes
+creator:
+- role: illustrator
+  text: Ximena
+- role: editor
+  text: Christopher Schmitt
+publisher: Artifact Conference 
+cover-image: "img/cover-artifactconf2019-sketchnotes.jpg"
+---
