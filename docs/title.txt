@@ -8,5 +8,5 @@ creator:
 - role: editor
   text: Christopher Schmitt
 publisher: Artifact Conference 
-cover-image: "img/cover-artifactconf2019-sketchnotes.jpg"
+cover-image: "../img/cover-artifactconf2019-sketchnotes.jpg"
 ---
